@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ananda!</h1>
 <h3 align="center">I am a Computer Science first year student at Universitas Gadjah Mada, I'm passionate about Data Science and AI as well as Motorsports</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arlecchi" alt="arlecchi" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
+- 🔭 I’m currently working on **A Machine Learning project predicting Formula 1 results**
 
 - 📫 How to reach me **hasyaamalya@gmail.com**
 
