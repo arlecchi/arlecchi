@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ananda!</h1>
 <h3 align="center">I am a Second Year Computer Science student at Universitas Gadjah Mada, I'm passionate about Data Science and AI as well as Motorsports</h3>
 
-- 🪪 Student ID: 23/511500/PA/21808
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Data Science** and **Machine Learning**
 - 🔭 I’m currently working on **A Machine Learning project predicting Formula 1 results**
 - 📫 You can reach me through **hasyaamalya@gmail.com** or **anandaamalyahasya@mail.ugm.ac.id**
 
